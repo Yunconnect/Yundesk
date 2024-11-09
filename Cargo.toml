@@ -5,7 +5,7 @@ authors = ["yundesk <info@yundesk.com>"]
 edition = "2021"
 build= "build.rs"
 description = "YunDesk Remote Desktop"
-default-run = "yundesk"
+default-run = "rustdesk"
 rust-version = "1.75"
 
 [lib]
