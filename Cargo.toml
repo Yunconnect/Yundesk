@@ -1,11 +1,11 @@
 [package]
-name = "rustdesk"
+name = "yundesk"
 version = "1.3.2"
-authors = ["rustdesk <info@rustdesk.com>"]
+authors = ["yundesk <info@yundesk.com>"]
 edition = "2021"
 build= "build.rs"
-description = "RustDesk Remote Desktop"
-default-run = "rustdesk"
+description = "YunDesk Remote Desktop"
+default-run = "yundesk"
 rust-version = "1.75"
 
 [lib]
