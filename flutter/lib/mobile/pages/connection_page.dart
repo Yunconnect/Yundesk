@@ -119,7 +119,7 @@ class _ConnectionPageState extends State<ConnectionPage> {
         ? const SizedBox(height: 0)
         : InkWell(
             onTap: () async {
-              final url = 'https://yunsoft.lanzouo.com/b010z61qf';
+              final url = 'https://yunsoft.lanzouo.com/b0izzc2ud';
               if (await canLaunchUrl(Uri.parse(url))) {
                 await launchUrl(Uri.parse(url));
               }
