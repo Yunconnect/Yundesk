@@ -105,7 +105,6 @@ const CHARS: &[char] = &[
 ];
 
 pub const RENDEZVOUS_SERVERS: &[&str] = &["rustdesk.ibyt.fun"];
-pub const RELAY_SERVERS: &[&str] = &["rustdesk.ibyt.fun"];
 pub const PUBLIC_RS_PUB_KEY: &str = "0lAaYbRC0MmbF3e5OcPh9g9m7XWtkwbv";
 
 pub const RS_PUB_KEY: &str = match option_env!("RS_PUB_KEY") {
